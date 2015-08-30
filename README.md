@@ -4,7 +4,7 @@ Just code. Currently, only [Sass](http://sass-lang.com) code, like mixins and pl
 
 ## meet `equal-height()`
 This is a simple Sass mixin I created it a long time ago for achieving equal height columns without flexbox.
-> [Live example](http://codepen.io/diessica/full/mJYQWG).
+> [Live example](http://codepen.io/diessica/full/ZGNXXd).
 
 ### usage
 
