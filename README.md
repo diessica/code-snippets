@@ -22,7 +22,7 @@ section, nav
   +equal-height
 ```
 
-Done! `nav`, and both `section`s got the same height.
+Done! `nav` and both `section`s got the same height.
 
 It doesn't matter the content, how many columns you have, neither the `nav` nor `section`'s `height`, nor if you don't have a container wrapping the siblings. **It just works**, and without neither `position: absolute` nor `background-image`.
 
